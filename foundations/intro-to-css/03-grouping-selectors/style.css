@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.button{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',sans-serif;
+}
+
+.button.click1{
+    color: white;
+    background-color: black
+    
+}   
+
+.button.click2{
+    color:black;
+    background-color: yellow;
+}
